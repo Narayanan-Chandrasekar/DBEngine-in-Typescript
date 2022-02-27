@@ -1,0 +1,28 @@
+{
+  "name": "concurrency-access",
+  "version": "1.0.0",
+  "description": "What happens when different commands share data and act on it concurrently?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narayanan-Chandrasekar/DBEngine-in-Typescript.git"
+  },
+  "keywords": [
+    "concurrency"
+  ],
+  "author": "Narayanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narayanan-Chandrasekar/DBEngine-in-Typescript/issues"
+  },
+  "homepage": "https://github.com/Narayanan-Chandrasekar/DBEngine-in-Typescript#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
